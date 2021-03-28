@@ -28,6 +28,7 @@ const cssLoader = addition => {
     const loaders = [
         {
             loader: MiniCssExtractPlugin.loader,
+            
         },
         'css-loader'
     ]
